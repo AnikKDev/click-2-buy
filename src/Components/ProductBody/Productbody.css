@@ -1,0 +1,15 @@
+.product-container{
+    border: 1px solid red;
+}
+.product-container-parent{
+    border: 1px solid red;
+}
+.selected-item-container{
+    border: 1px solid black;
+}
+.selected-item-container-parent{
+    border: 1px solid black;
+}
+.parent-div{
+    background-color: rgba(235, 233, 233, 0.74);
+}
