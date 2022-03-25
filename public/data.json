@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "price": 390,
+    "img": "https://img.freepik.com/free-vector/realistic-phono-device_52683-29765.jpg",
+    "name": "iPhone 13"
+  },
+  {
+    "id": 2,
+    "price": 142,
+    "img": "https://images.unsplash.com/photo-1615215271299-608ada121f72?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "name": "Poco M2"
+  },
+  {
+    "id": 3,
+    "price": 503,
+    "img": "https://images.unsplash.com/photo-1595514377985-fc9fe1d44f93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "name": "Huawei Nova 7"
+  },
+  {
+    "id": 4,
+    "price": 277,
+    "img": "https://images.unsplash.com/photo-1595941069915-4ebc5197c14a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "name": "Huawei Leica"
+  },
+  {
+    "id": 5,
+    "price": 520,
+    "img": "https://images.unsplash.com/photo-1592813630413-1124aa567638?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=585&q=80",
+    "name": "Galaxy Z Flip"
+  },
+  {
+    "id": 6,
+    "price": 365,
+    "img": "https://images.unsplash.com/photo-1615264952739-555010f3b29b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "name": "Galaxy s21 Plus"
+  },
+  {
+    "id": 7,
+    "price": 559,
+    "img": "https://images.unsplash.com/photo-1597763138596-05e6e77e5a5a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "name": "Galaxy Note 10"
+  },
+  {
+    "id": 8,
+    "price": 337,
+    "img": "https://images.unsplash.com/photo-1502201563651-826cbb30c3dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "name": "Galaxy s5"
+  },
+  {
+    "id": 9,
+    "price": 182,
+    "img": "https://images.unsplash.com/photo-1615265744588-6710f263447b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+    "name": "Galaxy s21 Ultra"
+  },
+  {
+    "id": 10,
+    "price": 119,
+    "img": "https://images.unsplash.com/photo-1594905574370-83909403d3fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "name": "Galaxy s8"
+  }
+]
