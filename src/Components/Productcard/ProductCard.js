@@ -1,9 +1,10 @@
 import React from 'react';
 import { Button, Card } from 'react-bootstrap';
-
-const ProductCard = ({ productDetails }) => {
+import { BsFillCartPlusFill } from 'react-icons/bs';
+import './ProductCard.css';
+const ProductCard = ({ productDetails, addToCartBtn }) => {
     const { name, id, img, price } = productDetails;
-    console.log(name)
+    // console.log(name)
     return (
         <div className='col-md-4 mb-5 d-flex justify-content-center'>
             <Card style={{ width: '14rem' }}>
@@ -11,9 +12,9 @@ const ProductCard = ({ productDetails }) => {
                 <Card.Body>
                     <Card.Title>{name}</Card.Title>
                     <Card.Text>
-                        <p>Price: {price}</p>
+                        Price: {price}
                     </Card.Text>
-                    <Button variant="primary">Add To Cart</Button>
+                    <button onClick={() => addToCartBtn(productDetails)} className='add-to-cart-btn'>Add To Cart <BsFillCartPlusFill /></button>
                 </Card.Body>
             </Card>
         </div>

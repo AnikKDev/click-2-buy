@@ -1,0 +1,12 @@
+.add-to-cart-btn{
+    color: black;
+    background-color: transparent;
+    border: 1px solid rgb(206, 206, 206);
+    padding: 7px 10px;
+    border-radius: 5px;
+    transition: 0.2s;
+}
+.add-to-cart-btn:hover{
+    background-color: rgb(94, 94, 94);
+    color: white;
+}
