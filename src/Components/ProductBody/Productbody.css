@@ -1,14 +1,17 @@
+/* parent container */
+.parent-div{
+    background-color: rgba(235, 233, 233, 0.74);
+}
+/* selected items */
 .selected-item-container{
     position: sticky;
-    top: 0;
+    top: 40px;
     margin: 13px 35px;
     background: #fff;
     border-radius: 22% 0% 22% 0%;
     box-shadow: 10px 16px 31px -13px black;
 }
-.parent-div{
-    background-color: rgba(235, 233, 233, 0.74);
-}
+/* choose item btn */
 .choose-item-btn{
     width: 187px;
     border: 1px solid rgb(206, 206, 206);
@@ -17,14 +20,10 @@
     background-color: rgb(94, 94, 94);
     color: white;
 }
+/* selected devices */
 .selected-device-img{
     width: 80px;
     border-radius: 25% 10%;
     padding: 2px;
     
 }
-/* .image-border img{
-    border: 0;
-    border-style:none;
-
-} */

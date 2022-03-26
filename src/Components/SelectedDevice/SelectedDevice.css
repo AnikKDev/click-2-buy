@@ -1,8 +1,10 @@
+/* selected device image container */
 .img-thumbnail{
     height: 60px;
     width: 60px;
     border-radius: 100px;
 }
+/* selected device image */
 .img-thumbnail img{
     height: 100%;
     width: 100%;
